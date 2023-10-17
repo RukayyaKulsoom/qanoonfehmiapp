@@ -1,0 +1,25 @@
+
+export default {
+    Hey: 'Welcome to QanoonFehmi',
+    languageSelector: 'Select Your Language',
+    login: 'Login',
+    signup: 'Sign Up',
+    welcome:'Welcome to QanoonFehmi',
+    email:'Email',
+    password: 'Password',
+    account: 'Dont have an account?',
+    submit: 'Submit',
+    text: 'Enter text here',
+    view:'View Data',
+    next:'Next',
+    volumes:'Volumes',
+    publications:'Published Volumes',
+    faqs: 'FAQs',
+    Aboutus: 'About Us',
+    sendfeedback: 'Send Feedback',
+    feedback:'Feedback',
+    deletefeedback:'Delete Feedback',
+    helpus:'Help us improve through your feedback',
+    chat:'Chat',
+    search:'Search'
+  };
